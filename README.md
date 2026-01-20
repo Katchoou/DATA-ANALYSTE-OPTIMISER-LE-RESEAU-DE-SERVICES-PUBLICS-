@@ -2,7 +2,6 @@
 
 ## 📌 Contexte
 Ce projet a été réalisé dans le cadre du **test pratique pour le recrutement des data analysts chez Togo DataLab**.  
-Il s’appuie sur des méthodes de **statistique appliquée** et de **l'analyse de données**.  
 
 ---
 
