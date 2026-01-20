@@ -1,7 +1,7 @@
 #  Optimisation des réseaux de services publics au Togo
 
 ##  Contexte
-Ce projet a été réalisé dans le cadre du **test pratique pour le recrutement des data analysts chez Togo DataLab**.  
+Ce projet a été réalisé dans le cadre du **test pratique pour le recrutement des stagiaires data analysts chez Togo DataLab**.  
 
 ---
 
