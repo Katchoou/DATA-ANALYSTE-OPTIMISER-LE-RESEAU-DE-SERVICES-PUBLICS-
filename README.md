@@ -1,11 +1,11 @@
-# 🚀 Optimisation des réseaux de services publics au Togo
+#  Optimisation des réseaux de services publics au Togo
 
-## 📌 Contexte
+##  Contexte
 Ce projet a été réalisé dans le cadre du **test pratique pour le recrutement des data analysts chez Togo DataLab**.  
 
 ---
 
-## 🎯 Objectifs
+##  Objectifs
 - Explorer et nettoyer les données disponibles.  
 - Mettre en œuvre des techniques d’analyse statistique et de traitement de données.  
 - Identifier des pistes d’optimisation pour améliorer l’efficacité des services publics.  
@@ -24,7 +24,7 @@ Ce projet a été réalisé dans le cadre du **test pratique pour le recrutement
 
 ---
 
-## ⚙️ Prérequis
+##  Prérequis
 Avant d’exécuter le notebook, assurez-vous d’avoir installé :  
 - Python 3.8+  
 - Jupyter Notebook ou JupyterLab  
