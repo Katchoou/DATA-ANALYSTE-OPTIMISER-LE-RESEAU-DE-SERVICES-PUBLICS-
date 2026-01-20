@@ -20,7 +20,8 @@ Ce projet a été réalisé dans le cadre du **test pratique pour le recrutement
 - **Rapport Power BI interactif** : `dashbord Togo DataLab2.pbit.pbix`.  
 - **PDF du tableau de bord** : export statique pour consultation rapide.  
 - **Fichier Excel des KPI** : `definition des KPI.xlsx` – définition et suivi des indicateurs clés.  
-- **README.md** : présentation du projet.  
+- **README.md** : présentation du projet.
+- **Presentation.pptx** : 'La présentation Powerpoint.
 
 ---
 
