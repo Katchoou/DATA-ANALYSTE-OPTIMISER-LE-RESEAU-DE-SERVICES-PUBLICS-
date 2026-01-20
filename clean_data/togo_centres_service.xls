@@ -1,0 +1,56 @@
+centre_id	nom_centre	type_centre	region	prefecture	commune	quartier	latitude	longitude	personnel_capacite_jour	nombre_guichets	horaire_nuit	equipement_numerique	date_ouverture	statut_centre	heure_debut	heure_fin
+CT001	Centre Principal Dapaong	Principal	Savanes	Tône	Dapaong	Administratif	10.592	0.4742	300	12	Non	Complet	2/14/2016	Actif	0 days 07:30:00	0 days 17:30:00
+CT002	Centre Kévé	Secondaire	Maritime	Ave	Kévé	Zone industrielle	6.2815	1.2182	63	2	Non	Limite	9/14/2020	Actif	0 days 08:00:00	0 days 16:00:00
+CT003	Centre Gando	Secondaire	Savanes	Oti-Sud	Gando	Zone industrielle	10.2629	0.2525	98	2	Non	Partiel	6/2/2015	Actif	0 days 08:00:00	0 days 16:00:00
+CT004	Centre Pagouda	Secondaire	Kara	Binah	Pagouda	Gare routière	9.4247	1.1698	78	6	Non	Partiel	12/3/2019	Actif	0 days 08:00:00	0 days 16:00:00
+CT005	Centre Tchamba	Secondaire	Centrale	Tchamba	Tchamba	Carrefour	8.5008	0.9988	62	3	Non	Limite	10/20/2022	Actif	0 days 08:00:00	0 days 16:00:00
+CT006	Centre Principal Tsévié	Principal	Maritime	Zio	Tsévié	Marché	6.4705	1.4344	338	8	Non	Complet	8/28/2022	Actif	0 days 07:30:00	0 days 17:30:00
+CT007	Centre Bassar	Secondaire	Kara	Bassar	Bassar	Poste	9.42	1.0817	59	6	Non	Partiel	2/11/2020	Actif	0 days 08:00:00	0 days 16:00:00
+CT008	Centre Principal Kpalimé	Principal	Plateaux	Kloto	Kpalimé	Préfecture	7.6305	0.9746	355	11	Non	Complet	7/12/2017	Actif	0 days 07:30:00	0 days 17:30:00
+CT009	Centre Tchamba	Secondaire	Centrale	Tchamba	Tchamba	Résidentiel	8.791	1.0719	61	2	Non	Limite	5/11/2022	Actif	0 days 08:00:00	0 days 16:00:00
+CT010	Centre Principal Kara	Principal	Kara	Kozah	Kara	Préfecture	9.324	0.7628	274	13	Non	Complet	11/24/2023	Actif	0 days 07:30:00	0 days 17:30:00
+CT011	Centre Pagouda	Secondaire	Kara	Binah	Pagouda	Préfecture	9.4996	0.9323	82	6	Non	Partiel	11/30/2017	Actif	0 days 08:00:00	0 days 16:00:00
+CT012	Centre Sotouboua	Secondaire	Centrale	Sotouboua	Sotouboua	Résidentiel	8.2161	1.3118	54	5	Non	Partiel	7/15/2022	Actif	0 days 08:00:00	0 days 16:00:00
+CT013	Centre Tchamba	Secondaire	Centrale	Tchamba	Tchamba	Centre ville	8.722	0.9914	114	2	Non	Limite	10/19/2016	Actif	0 days 08:00:00	0 days 16:00:00
+CT014	Centre Tohoun	Secondaire	Plateaux	Moyen-Mono	Tohoun	Administratif	6.9574	0.6103	63	2	Non	Partiel	1/10/2015	Actif	0 days 08:00:00	0 days 16:00:00
+CT015	Centre Danyi-Apéyémé	Secondaire	Plateaux	Danyi	Danyi-Apéyémé	Carrefour	7.5719	0.8589	74	2	Non	Partiel	6/14/2017	Actif	0 days 08:00:00	0 days 16:00:00
+CT016	Centre Lomé	Secondaire	Maritime	Golfe	Lomé	Administratif	6.2788	1.3586	106	2	Non	Partiel	7/8/2023	Actif	0 days 08:00:00	0 days 16:00:00
+CT017	Centre Tandjouaré	Secondaire	Savanes	Tandjouaré	Tandjouaré	Administratif	10.5077	0.7187	114	3	Non	Limite	6/10/2023	Actif	0 days 08:00:00	0 days 16:00:00
+CT018	Centre Bafilo	Secondaire	Kara	Assoli	Bafilo	Centre ville	9.3919	1.366	37	3	Non	Limite	7/25/2015	Actif	0 days 08:00:00	0 days 16:00:00
+CT019	Centre Aného	Secondaire	Maritime	Lacs	Aného	Carrefour	6.5515	1.5809	101	6	Non	Partiel	7/9/2023	Actif	0 days 08:00:00	0 days 16:00:00
+CT020	Centre Vogan	Secondaire	Maritime	Vo	Vogan	Administratif	6.3093	1.3497	32	2	Non	Partiel	9/3/2019	Actif	0 days 08:00:00	0 days 16:00:00
+CT021	Centre Djarkpanga	Secondaire	Centrale	Mo	Djarkpanga	Carrefour	8.9139	1.2232	118	2	Non	Limite	6/28/2019	Actif	0 days 08:00:00	0 days 16:00:00
+CT022	Centre Principal Sokodé	Principal	Centrale	Tchaoudjo	Sokodé	Centre ville	8.5795	0.9275	273	10	Oui	Complet	4/4/2015	Actif	0 days 07:30:00	0 days 17:30:00
+CT023	Centre Aného	Secondaire	Maritime	Lacs	Aného	Hôpital	6.4766	1.6806	35	5	Non	Limite	12/25/2018	Actif	0 days 08:00:00	0 days 16:00:00
+CT024	Centre Aného	Secondaire	Maritime	Lacs	Aného	Centre ville	6.3565	1.5655	88	6	Non	Partiel	8/10/2020	Actif	0 days 08:00:00	0 days 16:00:00
+CT025	Centre Tchamba	Secondaire	Centrale	Tchamba	Tchamba	Poste	9.05	1.2894	80	3	Non	Partiel	3/6/2016	Actif	0 days 08:00:00	0 days 16:00:00
+CT026	Centre Principal Sokodé	Principal	Centrale	Tchaoudjo	Sokodé	Résidentiel	8.9819	0.831	345	11	Non	Complet	10/16/2020	Actif	0 days 07:30:00	0 days 17:30:00
+CT027	Centre Naki-Est	Secondaire	Savanes	Kpendjal-Ouest	Naki-Est	Poste	10.3158	0.5043	88	4	Non	Partiel	12/15/2019	Actif	0 days 08:00:00	0 days 16:00:00
+CT028	Centre Blitta-Gare	Secondaire	Centrale	Blitta	Blitta-Gare	Hôpital	8.5788	1.1986	39	3	Non	Partiel	7/5/2021	Actif	0 days 08:00:00	0 days 16:00:00
+CT029	Centre Principal Sokodé	Principal	Centrale	Tchaoudjo	Sokodé	Zone industrielle	8.876	1.203	358	13	Non	Complet	7/15/2023	Actif	0 days 07:30:00	0 days 17:30:00
+CT030	Centre Tandjouaré	Secondaire	Savanes	Tandjouaré	Tandjouaré	Gare routière	11.0022	0.7954	45	4	Non	Partiel	2/23/2016	Actif	0 days 08:00:00	0 days 16:00:00
+CT031	Centre Vogan	Secondaire	Maritime	Vo	Vogan	Centre ville	6.2145	1.4578	64	6	Non	Limite	7/27/2017	Actif	0 days 08:00:00	0 days 16:00:00
+CT032	Centre Dapaong	Secondaire	Savanes	Tône	Dapaong	Gare routière	10.1609	0.0987	59	3	Non	Partiel	3/21/2016	Actif	0 days 08:00:00	0 days 16:00:00
+CT033	Centre Tabligbo	Secondaire	Maritime	Yoto	Tabligbo	Préfecture	6.3354	1.2679	115	6	Non	Partiel	10/26/2022	Actif	0 days 08:00:00	0 days 16:00:00
+CT034	Centre Djarkpanga	Secondaire	Centrale	Mo	Djarkpanga	Résidentiel	8.7926	1.276	111	5	Non	Limite	5/1/2022	Actif	0 days 08:00:00	0 days 16:00:00
+CT035	Centre Principal Kpalimé	Principal	Plateaux	Kloto	Kpalimé	Carrefour	7.2829	1.1346	229	8	Oui	Complet	9/27/2021	Actif	0 days 07:30:00	0 days 17:30:00
+CT036	Centre Principal Tsévié	Principal	Maritime	Zio	Tsévié	Résidentiel	6.2606	1.3498	206	8	Oui	Complet	11/14/2016	Actif	0 days 07:30:00	0 days 17:30:00
+CT037	Centre Principal Lomé	Principal	Maritime	Golfe	Lomé	Poste	6.6032	1.327	324	14	Non	Complet	11/20/2023	Actif	0 days 07:30:00	0 days 17:30:00
+CT038	Centre Guérin-Kouka	Secondaire	Kara	Dankpen	Guérin-Kouka	Centre ville	9.6594	1.1678	81	6	Non	Partiel	4/24/2023	Actif	0 days 08:00:00	0 days 16:00:00
+CT039	Centre Lomé	Secondaire	Maritime	Golfe	Lomé	Carrefour	6.2248	1.3339	110	4	Non	Limite	12/6/2018	Actif	0 days 08:00:00	0 days 16:00:00
+CT040	Centre Sokodé	Secondaire	Centrale	Tchaoudjo	Sokodé	Résidentiel	8.9743	1.1478	118	2	Non	Partiel	3/4/2020	Actif	0 days 08:00:00	0 days 16:00:00
+CT041	Centre Kévé	Secondaire	Maritime	Ave	Kévé	Administratif	6.2406	1.5318	113	3	Non	Partiel	8/24/2022	Actif	0 days 08:00:00	0 days 16:00:00
+CT042	Centre Principal Kara	Principal	Kara	Kozah	Kara	Centre ville	9.4131	0.8157	294	14	Non	Complet	8/10/2020	Actif	0 days 07:30:00	0 days 17:30:00
+CT043	Centre Niamtougou	Secondaire	Kara	Doufelgou	Niamtougou	Marché	9.5764	0.9782	41	2	Non	Partiel	12/21/2023	Actif	0 days 08:00:00	0 days 16:00:00
+CT044	Centre Amlamé	Secondaire	Plateaux	Amou	Amlamé	Gare routière	7.632	1.1313	54	2	Non	Partiel	12/26/2020	Actif	0 days 08:00:00	0 days 16:00:00
+CT045	Centre Aného	Secondaire	Maritime	Lacs	Aného	Zone industrielle	6.5721	1.2267	100	2	Non	Limite	1/21/2017	Actif	0 days 08:00:00	0 days 16:00:00
+CT046	Centre Djarkpanga	Secondaire	Centrale	Mo	Djarkpanga	Hôpital	8.4259	1.2054	87	3	Non	Partiel	5/22/2015	Actif	0 days 08:00:00	0 days 16:00:00
+CT047	Centre Kanté	Secondaire	Kara	Kéran	Kanté	Carrefour	9.9934	0.8713	74	4	Non	Partiel	4/10/2023	Actif	0 days 08:00:00	0 days 16:00:00
+CT048	Centre Kévé	Secondaire	Maritime	Ave	Kévé	Marché	6.3456	1.5279	87	6	Non	Partiel	10/26/2015	Actif	0 days 08:00:00	0 days 16:00:00
+CT049	Centre Guérin-Kouka	Secondaire	Kara	Dankpen	Guérin-Kouka	Carrefour	9.9226	1.1138	77	5	Non	Partiel	9/28/2018	Actif	0 days 08:00:00	0 days 16:00:00
+CT050	Centre Mandouri	Secondaire	Savanes	Kpendjal	Mandouri	Marché	10.2819	0.6347	82	5	Non	Partiel	5/22/2015	Actif	0 days 08:00:00	0 days 16:00:00
+CT051	Centre Sotouboua	Secondaire	Centrale	Sotouboua	Sotouboua	Résidentiel	9.1659	0.8743	109	2	Non	Partiel	5/29/2022	Actif	0 days 08:00:00	0 days 16:00:00
+CT052	Centre Naki-Est	Secondaire	Savanes	Kpendjal-Ouest	Naki-Est	Poste	10.6172	0.5627	106	5	Non	Partiel	3/12/2016	Actif	0 days 08:00:00	0 days 16:00:00
+CT053	Centre Tchamba	Secondaire	Centrale	Tchamba	Tchamba	Résidentiel	8.6851	0.8158	45	5	Non	Partiel	12/5/2023	Actif	0 days 08:00:00	0 days 16:00:00
+CT054	Centre Principal Sokodé	Principal	Centrale	Tchaoudjo	Sokodé	Poste	8.6473	1.0778	248	12	Non	Complet	12/15/2020	Actif	0 days 07:30:00	0 days 17:30:00
+CT055	Centre Notsé	Secondaire	Plateaux	Haho	Notsé	Gare routière	7.1331	0.7312	85	2	Non	Partiel	7/25/2020	Actif	0 days 08:00:00	0 days 16:00:00
